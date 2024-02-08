@@ -1,0 +1,21 @@
+.containerLogin{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.containerLogin .login2{
+    margin-top: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(223, 222, 230);
+    padding: 50px;
+}
+
+.containerLogin .login2 form button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
